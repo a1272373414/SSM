@@ -20,7 +20,7 @@
 
 
 	<dependencies>
-		<!-- 添加Spring依赖 -->
+		<!-- 添加Spring依赖  -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
